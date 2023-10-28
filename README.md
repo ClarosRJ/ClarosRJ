@@ -27,8 +27,8 @@
     <td width="40%">
       <h3 align="center">Accounting System</h3>
       <div align="center">
-        <img src="https://i.ibb.co/jr06BWS/sistema-contabilidad.png" width="400px"
-          alt="Proyecto de Sistema de Contabilidad">
+        <img src="https://i.ibb.co/jr06BWS/sistema-contabilidad.png" alt="Proyecto de Sistema de Contabilidad"
+          border="0" width="400px" /></a>
         </a>
         <p>
           <a href="https://github.com/Programming-V22/Sistema_Contabilidad" target="_blank">
@@ -46,7 +46,8 @@
       <br>
       <h3 align="center">Authentication JwtBearer</h3>
       <div align="center">
-        <img src="https://i.ibb.co/Srg8Yg5/authenticacion.png" width="400px" alt="Sistema de Authenticacion">
+        <img src="https://i.ibb.co/Srg8Yg5/authenticacion.png" alt="Sistema de Authenticacion" border="0"
+          width="400px" /></a>
         </a>
         <p>
           <a href="https://github.com/ClarosRJ/Authentication-JWTBearer" target="_blank">
