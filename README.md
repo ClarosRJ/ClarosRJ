@@ -18,7 +18,7 @@
 - 👨‍💻SQL SERVER, MSSQL, PL/SQL
 - 👨‍💻 Xampp, Mysql
 - 👨‍💻 SqlLite, PostgreSQL
-- 
+
 ## Projects
 <table>
   <tr>
