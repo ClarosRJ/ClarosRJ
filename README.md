@@ -28,7 +28,7 @@
       <h3 align="center">Accounting System</h3>
       <div align="center">
         <a href="" https://github.com/Programming-V22/Sistema_Contabilidad" target="_blank">
-          <img src="https://i.ibb.co/jr06BWS/sistema-contabilidad.png" width="400" height="190"
+          <img src="https://i.ibb.co/jr06BWS/sistema-contabilidad.png" width="400"
             alt="Proyecto de Sistema de Contabilidad">
         </a>
         <p>
@@ -38,6 +38,7 @@
         </p>
         <p>
           Accounting System built with tools
+          <br>
           <strong>C#, Windows Form, Sql Server</strong>
         </p>
       </div>
@@ -46,15 +47,14 @@
       <h3 align="center">Authentication JwtBearer</h3>
       <div align="center">
         <a href="" https://github.com/ClarosRJ/Authentication-JWTBearer" target="_blank">
-          <img src="https://i.ibb.co/Srg8Yg5/authenticacion.png" width="400" height="190"
-            alt="Sistema de Authenticacion">
+          <img src="https://i.ibb.co/Srg8Yg5/authenticacion.png" width="400" alt="Sistema de Authenticacion">
         </a>
         <p>
           <a href="https://github.com/ClarosRJ/Authentication-JWTBearer" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
-        <p>Authentication System created using tools
+        <p>Authentication System created using tools <br>
           <strong>C# ASP.NET BlazorWebAssembly App, HTML, CSS, Bootstrap, Entity Framework</strong>
         </p>
       </div>
