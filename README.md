@@ -20,14 +20,14 @@
 - 👨‍💻SQL SERVER, MSSQL, PL/SQL
 - 👨‍💻 Xampp, Mysql
 - 👨‍💻 SqlLite, PostgreSQL
-<br>
+
 ## Projects
 <table>
   <tr>
     <td width="40%">
       <h3 align="center">Accounting System</h3>
       <div align="center">
-        <a href="" https://github.com/Programming-V22/Sistema_Contabilidad" target="_blank">
+        <a href="https://github.com/Programming-V22/Sistema_Contabilidad" target="_blank">
           <img src="https://i.ibb.co/jr06BWS/sistema-contabilidad.png" width="400"
             alt="Proyecto de Sistema de Contabilidad">
         </a>
@@ -46,8 +46,9 @@
     <td width="40%">
       <h3 align="center">Authentication JwtBearer</h3>
       <div align="center">
-        <a href="" https://github.com/ClarosRJ/Authentication-JWTBearer" target="_blank">
-          <img src="https://i.ibb.co/Srg8Yg5/authenticacion.png" width="400" alt="Sistema de Authenticacion">
+        <a href="https://github.com/ClarosRJ/Authentication-JWTBearer" target="_blank">
+          <img src="https://i.ibb.co/Srg8Yg5/authenticacion.png" width="400"
+           alt="Sistema de Authenticacion">
         </a>
         <p>
           <a href="https://github.com/ClarosRJ/Authentication-JWTBearer" target="_blank">
