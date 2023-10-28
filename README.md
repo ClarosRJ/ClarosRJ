@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi, I am <a href="#">Jhonny Claros</a> 👋</h1>
+  <h1 align="center">Hi 👋, I am <a href="#">Jhonny Claros</a> </h1>
 </div>
 <img src="https://i.ibb.co/rt56G4q/fondogit.png" alt="fondogit" border="0" width="1500px" />
 ## About Me
