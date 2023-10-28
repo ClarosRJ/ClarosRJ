@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi, I am <a href="#">Jhonny Claros</a> 👋</h1>
+  <h1 align="center">Hi👋, I am <a href="#">Jhonny Claros</a> </h1>
 </div>
 <img src="https://i.imgur.com/Hy4PhoZ.png" alt="World Programming-V22" border="0" width="1500px" />
 ## About Me
