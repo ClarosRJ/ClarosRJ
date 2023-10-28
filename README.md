@@ -6,7 +6,7 @@
 
 - ⭐ Developer Full Stack ⭐
 - 📲 Apps Nocode
-- 🎥 Solutions [Youtube](https://www.youtube.com/@IA-INTERNET-2023?sub_confirmation=1) (+35k subs)
+- 🎥 Solutions [Youtube](https://www.youtube.com/@IA-INTERNET-2023?sub_confirmation=1)
 - ✏️ Algorithms, Flowcharts, Problem Solving
 - 📗 Maker [El Comarapeño](https://academia-kaled.web.app/)
 <br>
