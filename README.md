@@ -1,8 +1,7 @@
 <div align="center">
   <h1 align="center">Hi, I am <a href="#">Jhonny Claros</a> 👋</h1>
 </div>
-<img src="https://i.ibb.co/S786g7F/fondogit.png" alt="fondogit" border="0" width="1500px" />
-
+<img src="https://i.ibb.co/rt56G4q/fondogit.png" alt="fondogit" border="0" width="1500px" />
 ## About Me
 
 - ⭐ Developer Full Stack ⭐
@@ -20,14 +19,13 @@
 - 👨‍💻SQL SERVER, MSSQL, PL/SQL
 - 👨‍💻 Xampp, Mysql
 - 👨‍💻 SqlLite, PostgreSQL
-
 ## Projects
 <table>
   <tr>
     <td width="40%">
       <h3 align="center">Accounting System</h3>
       <div align="center">
-        <img src="https://i.ibb.co/jr06BWS/sistema-contabilidad.png" alt="Proyecto de Sistema de Contabilidad"
+        <img src="https://i.ibb.co/8x5vHXq/sistema-contabilidad.png" alt="Proyecto de Sistema de Contabilidad"
           border="0" width="400" height="225" />
         <p>
           <a href="https://github.com/Programming-V22/Sistema_Contabilidad" target="_blank">
@@ -45,7 +43,7 @@
       <br>
       <h3 align="center">Authentication JwtBearer</h3>
       <div align="center">
-        <img src="https://i.ibb.co/hfdsnxH/authenticacion.png" alt="Proyecto de Sistema de Contabilidad" border="0"
+        <img src="https://i.ibb.co/0qV5sLw/authenticacion.png" alt="Proyecto de Sistema de Contabilidad" border="0"
           width="400" height="225" />
         <p>
           <a href="https://github.com/ClarosRJ/Authentication-JWTBearer" target="_blank">
