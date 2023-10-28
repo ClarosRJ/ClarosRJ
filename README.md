@@ -1,12 +1,12 @@
 <div align="center">
-  <h1 align="center">Hi 👋, I am <a href="#">Jhonny Claros</a> </h1>
+  <h1 align="center">Hi, I am <a href="#">Jhonny Claros</a> 👋</h1>
 </div>
-<img src="https://i.ibb.co/rt56G4q/fondogit.png" alt="fondogit" border="0" width="1500px" />
+<img src="https://i.imgur.com/Hy4PhoZ.png" alt="World Programming-V22" border="0" width="1500px" />
 ## About Me
 
 - ⭐ Developer Full Stack ⭐
 - 📲 Apps Nocode
-- 🎥 Solutions [Youtube](https://www.youtube.com/@IA-INTERNET-2023?sub_confirmation=1)
+- 🎥 Solutions [Youtube](https://www.youtube.com/@IA-INTERNET-2023?sub_confirmation=1) (+35k subs)
 - ✏️ Algorithms, Flowcharts, Problem Solving
 - 📗 Maker [El Comarapeño](https://academia-kaled.web.app/)
 <br>
@@ -25,8 +25,8 @@
     <td width="40%">
       <h3 align="center">Accounting System</h3>
       <div align="center">
-        <img src="https://i.ibb.co/8x5vHXq/sistema-contabilidad.png" alt="Proyecto de Sistema de Contabilidad"
-          border="0" width="400" height="225" />
+        <img src="https://i.imgur.com/iASFRNd.png" alt="Proyecto de Sistema de Contabilidad" border="0" width="400"
+          height="225" />
         <p>
           <a href="https://github.com/Programming-V22/Sistema_Contabilidad" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -43,8 +43,8 @@
       <br>
       <h3 align="center">Authentication JwtBearer</h3>
       <div align="center">
-        <img src="https://i.ibb.co/0qV5sLw/authenticacion.png" alt="Proyecto de Sistema de Contabilidad" border="0"
-          width="400" height="225" />
+        <img src="https://i.imgur.com/8Hr1Ijz.png" alt="Sistema de Authentication" border="0" width="400"
+          height="225" />
         <p>
           <a href="https://github.com/ClarosRJ/Authentication-JWTBearer" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
