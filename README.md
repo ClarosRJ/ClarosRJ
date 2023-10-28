@@ -1,7 +1,7 @@
 <div align="center">
-  <h1 align="center">Hi, I am <a href="https://aristi.dev">Jhonny Claros</a> 👋</h1>
+  <h1 align="center">Hi, I am <a href="">Jhonny Claros</a> 👋</h1>
 </div>
-<img src="https://i.ibb.co/S786g7F/fondogit.png" alt="fondogit" border="0" />
+<img src="https://i.ibb.co/S786g7F/fondogit.png" alt="fondogit" border="0" width="1500px"/>
 <br>
 ## About Me
 
