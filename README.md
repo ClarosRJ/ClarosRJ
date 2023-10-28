@@ -23,7 +23,8 @@
 
 <br>
 
-## Proyectos _bombitas_
+## Proyectos
+
 
 <table>
   <tr>
@@ -48,14 +49,12 @@
     <td width="40%">
       <h3 align="center">Proyectos Realizdos </h3>
       <div align="center">
-        <a <img src="https://i.ibb.co/jr06BWS/sistema-contabilidad.png" alt="sistema-contabilidad" border="0" /></a>
-        <a href="" https://github.com/Programming-V22/Sistema_Contabilidad" target="_blank">
-          <img src="https://i.ibb.co/jr06BWS/sistema-contabilidad.png" width="400"
-            alt="Proyecto de Sistema de Contabilidad">
+        <a href="https://github.com/Programming-V22/Capital-Inmobiliaria" target="_blank">
+          <img src="https://i.ibb.co/jr06BWS/sistema-contabilidad.png" width="400" alt="Sistema de Contabilidad">
         </a>
         <p>
-          <a href="https://github.com/Programming-V22/Sistema_Contabilidad" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          <a href="https://github.com/ClarosRJ/Authentication-JWTBearer" target="_blank">
+            <img src="https://i.ibb.co/0nq2Fcm/capitalinmobiliaria.png" width="400" alt="Sistema de Venta de Inmuebles">
           </a>
         </p>
         <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás
