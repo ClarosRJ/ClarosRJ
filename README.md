@@ -2,16 +2,15 @@
   <h1 align="center">Hi👋, I am <a href="#">Jhonny Claros</a> </h1>
 </div>
 <img src="https://i.imgur.com/Hy4PhoZ.png" alt="World Programming-V22" border="0" width="1500px" />
-## About Me
 
+## About Me
 - ⭐ Developer Full Stack ⭐
 - 📲 Apps Nocode
 - 🎥 Solutions [Youtube](https://www.youtube.com/@IA-INTERNET-2023?sub_confirmation=1)
 - ✏️ Algorithms, Flowcharts, Problem Solving
 - 📗 Maker [El Comarapeño](https://academia-kaled.web.app/)
-<br>
-## Skills
 
+## Skills
 - 🧑‍💻 C# .NET ASP.NET, Javascript, Blazor, Linq, Telerik, HTML, CSS, Bootstrap
 - 👨‍💻 Python Django, HTML, CSS
 - 🧑‍💻 Javascript, Angular, HTML, CSS, Boostrap
@@ -19,6 +18,7 @@
 - 👨‍💻SQL SERVER, MSSQL, PL/SQL
 - 👨‍💻 Xampp, Mysql
 - 👨‍💻 SqlLite, PostgreSQL
+- 
 ## Projects
 <table>
   <tr>
